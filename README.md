@@ -39,7 +39,7 @@ purpose-built four-class VRU dataset of 82,200 bounding box crops
 collected from urban surveillance footage.
 
 Pretrained weights (~340 MB) are available on HuggingFace:  
-**[anonymous link — see paper footnote]**
+https://huggingface.co/vru-research/vru-classifier  ** Anonymous link **
 
 Download `swin.pth` and place it in the same directory as the scripts.
 
