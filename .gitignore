@@ -1,0 +1,23 @@
+# Model weights
+*.pth
+*.pt
+
+# Video files
+*.dav
+*.mp4
+*.avi
+
+# Pipeline outputs
+tracks_pipeline*.json
+tracks_gt*.json
+confusion_matrix.eps
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# OS
+.DS_Store
+Thumbs.db
